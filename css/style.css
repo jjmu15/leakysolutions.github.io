@@ -747,8 +747,9 @@ h2.strapline {
 
     #content h1.title {
         width: 100%;
-        line-height: 300px;
         font-size: 5em;
+        line-height: 1.5em;
+        padding: 0.65em 0;
     }
 
     #content p {
@@ -756,7 +757,7 @@ h2.strapline {
     }
 
     #content h2 {
-        font-size: 3em;
+        font-size: 2em;
     }
 
     #content .half {
@@ -765,13 +766,8 @@ h2.strapline {
         margin-bottom: 20px;
     }
 
-    .wpcf7 p {
-        font-size: 2em !important;
-    }
-
-    #footer-container p.developed {
-        width: 90%;
-        padding: 0 5%;
+    #wufoo-mfyr7d50rzrqpi {
+        padding: 0 2.5%;
     }
 
 }

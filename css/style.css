@@ -377,11 +377,6 @@ h2.strapline {
     display: flex;
   }
 
-  .home-content .cta h2,
-  .home-content .cta p {
-    display: flex;
-  }
-
   .home-content .cta .box {
     display: flex;
     justify-content: center;

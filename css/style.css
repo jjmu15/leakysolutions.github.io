@@ -375,6 +375,7 @@ h2.strapline {
 
   .home-content .cta {
     margin: 0 20px;
+    height: auto;
   }
 }
 

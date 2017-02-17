@@ -367,6 +367,28 @@ h2.strapline {
     margin-bottom: 25px;
 }
 
+@media only screen and (min-width: 600px) {
+
+  .home-content > div {
+    display: flex;
+  }
+
+  .home-content .cta {
+    display: flex;
+  }
+
+  .home-content .cta h2,
+  .home-content .cta p {
+    display: flex;
+  }
+
+  .home-content .cta .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 .home-content .cta h2 {
     margin-top: 0;
     margin-bottom: 12px;

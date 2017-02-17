@@ -372,10 +372,6 @@ h2.strapline {
   .home-content > div {
     display: flex;
   }
-
-  .home-content .cta {
-    display: flex;
-  }
 }
 
 .home-content .cta h2 {
